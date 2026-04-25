@@ -20,7 +20,6 @@ The goal of this repo is to:
 * Built using event-driven architecture (Kafka)
 * Includes retry, DLQ, and idempotency handling
 
-👉 [View Design](./Notification_System/)
 
 ---
 
@@ -51,11 +50,10 @@ The goal of this repo is to:
 
 ## 📈 Future Additions
 
-* URL Shortener
-* Rate Limiter
-* Chat System
 * Payment System
-* Search Autocomplete
+* Rate Limiter
+* Logger(Splunk)
+* Etc......
 
 ---
 
